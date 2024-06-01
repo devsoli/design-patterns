@@ -11,3 +11,11 @@ descriptions or templates for how to solve a problem in a way that can be reused
 - Builder
 - Prototype
 - Singleton
+- ## Structural
+- Adaptor
+- Bridge
+- Composite
+- Decorator
+- Facade
+- Flyweight
+- Proxy
