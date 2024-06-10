@@ -15,6 +15,7 @@ descriptions or templates for how to solve a problem in a way that can be reused
 - Adaptor
 - Bridge
 - Composite
+- Data Mapper
 - Decorator
 - Facade
 - Flyweight
